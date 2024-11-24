@@ -1,0 +1,336 @@
+SLURM JOB 4415931
+SLURM TASK 1 / 4
+Fri Nov 22 13:39:43 CET 2024
+S-box is quadratic? 0 0
+RUNNING WITH LB 19, BATCH 1/4
+checking depth 0 masks (00 01)
+checking depth 0 masks (18 01)
+checking depth 0 masks (08 01)
+checking depth 0 masks (02 01)
+checking depth 0 masks (1c 01)
+checking depth 0 masks (14 01)
+checking depth 0 masks (fe 01)
+checking depth 0 masks (de 01)
+checking depth 0 masks (10 01)
+checking depth 0 masks (12 01)
+checking depth 0 masks (0a 01)
+checking depth 0 masks (a2 01)
+checking depth 0 masks (ea 01)
+checking depth 0 masks (34 01)
+checking depth 0 masks (c6 01)
+checking depth 0 masks (d2 01)
+checking depth 0 masks (b6 01)
+checking depth 0 masks (dc 01)
+checking depth 0 masks (b2 01)
+checking depth 0 masks (70 01)
+checking depth 0 masks (1a 01)
+checking depth 0 masks (92 01)
+checking depth 0 masks (c0 01)
+checking depth 0 masks (ae 01)
+checking depth 0 masks (5c 01)
+checking depth 0 masks (a0 01)
+checking depth 0 masks (d0 01)
+checking depth 0 masks (4e 01)
+checking depth 0 masks (44 01)
+checking depth 0 masks (2a 01)
+checking depth 0 masks (1e 01)
+checking depth 0 masks (16 01)
+checking depth 0 masks (d8 01)
+checking depth 0 masks (8c 01)
+checking depth 0 masks (2c 01)
+checking depth 0 masks (e6 01)
+checking depth 0 masks (a6 01)
+checking depth 0 masks (76 01)
+checking depth 0 masks (d6 01)
+checking depth 0 masks (24 01)
+checking depth 0 masks (82 01)
+checking depth 0 masks (ca 01)
+checking depth 0 masks (fa 01)
+checking depth 0 masks (36 01)
+checking depth 0 masks (0c 01)
+checking depth 0 masks (8e 01)
+checking depth 0 masks (30 01)
+checking depth 0 masks (3a 01)
+checking depth 0 masks (22 01)
+checking depth 0 masks (28 01)
+checking depth 0 masks (96 01)
+checking depth 0 masks (7a 01)
+checking depth 0 masks (2e 01)
+checking depth 0 masks (f6 01)
+checking depth 0 masks (ba 01)
+checking depth 0 masks (86 01)
+checking depth 0 masks (ee 01)
+checking depth 0 masks (32 01)
+checking depth 0 masks (7e 01)
+checking depth 0 masks (aa 01)
+checking depth 0 masks (da 01)
+checking depth 0 masks (ce 01)
+checking depth 0 masks (26 01)
+checking depth 0 masks (9e 01)
+checking depth 0 masks (38 01)
+checking depth 0 masks (20 01)
+checking depth 0 masks (b8 01)
+checking depth 0 masks (4c 01)
+checking depth 0 masks (ec 01)
+checking depth 0 masks (48 01)
+checking depth 0 masks (50 01)
+checking depth 0 masks (c4 01)
+checking depth 0 masks (94 01)
+checking depth 0 masks (46 01)
+checking depth 0 masks (fc 01)
+checking depth 0 masks (88 01)
+checking depth 0 masks (4a 01)
+checking depth 0 masks (ac 01)
+checking depth 0 masks (84 01)
+checking depth 0 masks (b0 01)
+checking depth 0 masks (6c 01)
+checking depth 0 masks (e4 01)
+checking depth 0 masks (a8 01)
+checking depth 0 masks (6a 01)
+checking depth 0 masks (e8 01)
+checking depth 0 masks (80 01)
+checking depth 0 masks (06 01)
+checking depth 0 masks (04 01)
+checking depth 0 masks (0e 01)
+checking depth 0 masks (a4 01)
+checking depth 0 masks (7c 01)
+checking depth 0 masks (68 01)
+checking depth 0 masks (f4 01)
+checking depth 0 masks (bc 01)
+checking depth 0 masks (66 01)
+checking depth 0 masks (78 01)
+checking depth 0 masks (f8 01)
+checking depth 0 masks (58 01)
+checking depth 0 masks (52 01)
+checking depth 0 masks (64 01)
+checking depth 0 masks (9c 01)
+checking depth 0 masks (72 01)
+checking depth 0 masks (c8 01)
+checking depth 0 masks (d4 01)
+checking depth 0 masks (b4 01)
+checking depth 0 masks (6e 01)
+checking depth 0 masks (90 01)
+checking depth 0 masks (5e 01)
+checking depth 0 masks (e0 01)
+checking depth 0 masks (40 01)
+checking depth 0 masks (56 01)
+checking depth 0 masks (3e 01)
+checking depth 0 masks (f0 01)
+checking depth 0 masks (54 01)
+checking depth 0 masks (42 01)
+checking depth 0 masks (5a 01)
+checking depth 0 masks (62 01)
+checking depth 0 masks (f2 01)
+checking depth 0 masks (8a 01)
+checking depth 0 masks (c2 01)
+checking depth 0 masks (3c 01)
+checking depth 0 masks (cc 01)
+checking depth 0 masks (9a 01)
+checking depth 0 masks (e2 01)
+checking depth 0 masks (60 01)
+checking depth 0 masks (74 01)
+checking depth 0 masks (be 01)
+checking depth 0 masks (98 01)
+checking depth 0 masks (01 01)
+checking depth 0 masks (65 01)
+checking depth 0 masks (2b 01)
+checking depth 0 masks (21 01)
+checking depth 0 masks (bd 01)
+checking depth 0 masks (03 01)
+checking depth 0 masks (87 01)
+checking depth 0 masks (93 01)
+checking depth 0 masks (69 01)
+checking depth 0 masks (75 01)
+checking depth 0 masks (61 01)
+checking depth 0 masks (b9 01)
+checking depth 0 masks (9d 01)
+checking depth 0 masks (9f 01)
+checking depth 0 masks (df 01)
+checking depth 0 masks (a3 01)
+checking depth 0 masks (55 01)
+checking depth 0 masks (f9 01)
+checking depth 0 masks (fb 01)
+checking depth 0 masks (b7 01)
+checking depth 0 masks (8d 01)
+checking depth 0 masks (05 01)
+checking depth 0 masks (e5 01)
+checking depth 0 masks (cf 01)
+checking depth 0 masks (6f 01)
+checking depth 0 masks (5b 01)
+checking depth 0 masks (3f 01)
+checking depth 0 masks (d7 01)
+checking depth 0 masks (59 01)
+checking depth 0 masks (25 01)
+checking depth 0 masks (4b 01)
+checking depth 0 masks (3b 01)
+checking depth 0 masks (95 01)
+checking depth 0 masks (1f 01)
+checking depth 0 masks (0d 01)
+checking depth 0 masks (d5 01)
+checking depth 0 masks (39 01)
+checking depth 0 masks (4d 01)
+checking depth 0 masks (c9 01)
+checking depth 0 masks (f3 01)
+checking depth 0 masks (13 01)
+checking depth 0 masks (5d 01)
+checking depth 0 masks (85 01)
+checking depth 0 masks (e1 01)
+checking depth 0 masks (4f 01)
+checking depth 0 masks (6b 01)
+checking depth 0 masks (ff 01)
+checking depth 0 masks (3d 01)
+checking depth 0 masks (2d 01)
+checking depth 0 masks (a7 01)
+checking depth 0 masks (19 01)
+checking depth 0 masks (0b 01)
+checking depth 0 masks (7f 01)
+checking depth 0 masks (17 01)
+checking depth 0 masks (d1 01)
+checking depth 0 masks (47 01)
+checking depth 0 masks (f5 01)
+checking depth 0 masks (eb 01)
+checking depth 0 masks (e7 01)
+checking depth 0 masks (a9 01)
+checking depth 0 masks (91 01)
+checking depth 0 masks (57 01)
+checking depth 0 masks (73 01)
+checking depth 0 masks (f7 01)
+checking depth 0 masks (81 01)
+checking depth 0 masks (ab 01)
+checking depth 0 masks (07 01)
+checking depth 0 masks (09 01)
+checking depth 0 masks (b5 01)
+checking depth 0 masks (79 01)
+checking depth 0 masks (35 01)
+checking depth 0 masks (43 01)
+checking depth 0 masks (27 01)
+checking depth 0 masks (ef 01)
+checking depth 0 masks (e3 01)
+checking depth 0 masks (77 01)
+checking depth 0 masks (a1 01)
+checking depth 0 masks (1d 01)
+checking depth 0 masks (ad 01)
+checking depth 0 masks (0f 01)
+checking depth 0 masks (b3 01)
+checking depth 0 masks (f1 01)
+checking depth 0 masks (c7 01)
+checking depth 0 masks (d9 01)
+checking depth 0 masks (53 01)
+checking depth 0 masks (67 01)
+checking depth 0 masks (b1 01)
+checking depth 0 masks (cb 01)
+checking depth 0 masks (97 01)
+checking depth 0 masks (63 01)
+checking depth 0 masks (15 01)
+checking depth 0 masks (dd 01)
+checking depth 0 masks (6d 01)
+checking depth 0 masks (83 01)
+checking depth 0 masks (2f 01)
+checking depth 0 masks (e9 01)
+checking depth 0 masks (a5 01)
+checking depth 0 masks (8f 01)
+checking depth 0 masks (33 01)
+checking depth 0 masks (1b 01)
+checking depth 0 masks (bb 01)
+checking depth 0 masks (23 01)
+checking depth 0 masks (c1 01)
+checking depth 0 masks (8b 01)
+checking depth 0 masks (11 01)
+checking depth 0 masks (5f 01)
+checking depth 0 masks (37 01)
+checking depth 0 masks (db 01)
+checking depth 0 masks (7b 01)
+checking depth 0 masks (99 01)
+checking depth 0 masks (af 01)
+checking depth 0 masks (9b 01)
+checking depth 0 masks (fd 01)
+checking depth 0 masks (51 01)
+checking depth 0 masks (41 01)
+checking depth 0 masks (bf 01)
+checking depth 0 masks (89 01)
+checking depth 0 masks (c3 01)
+checking depth 0 masks (7d 01)
+checking depth 0 masks (cd 01)
+checking depth 0 masks (d3 01)
+checking depth 0 masks (45 01)
+checking depth 0 masks (31 01)
+checking depth 0 masks (49 01)
+checking depth 0 masks (71 01)
+checking depth 0 masks (c5 01)
+checking depth 0 masks (29 01)
+checking depth 0 masks (ed 01)
+
+depth 0:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 0 = -inf
+depth 1:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 0 = -inf
+depth 2:         65536 = 2^ 16.00 nodes,             0 = 2^  -inf leaves,         65536 = 2^ 16.00 non-leaves (100.00 %)
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - -  1.00  3.00  4.09  5.25  6.54  7.18 |
+   8.05  8.38  9.00  9.56  9.85 10.25 10.53 10.69 11.03 11.28 11.32 11.55 11.69 11.73 11.80 11.82 |
+  11.81 
+FULL STAT total: 35019 = 15.10
+depth 3:      33554432 = 2^ 25.00 nodes,         88520 = 2^ 16.43 leaves,      33465912 = 2^ 25.00 non-leaves (99.74 %)
+  - - - - - - - -  1.00  0.00  2.00  4.75  6.66  8.79 10.56 12.02 |
+  13.36 14.52 15.56 16.50 17.33 18.05 18.68 19.23 19.71 20.11 20.45 20.72 20.93 21.09 21.19 21.24 |
+  21.24 21.19 21.10 20.96 20.78 20.56 20.29 19.99 19.64 19.24 18.80 18.32 17.78 17.19 16.54 15.83 |
+  15.02 14.16 13.18 12.06 10.73  9.17  7.44  4.75  1.58 - - - - - - - |
+  - 
+FULL STAT total: 33554432 = 25.00
+depth 4:   17134546944 = 2^ 34.00 nodes,   12782204915 = 2^ 33.57 leaves,    4352342029 = 2^ 32.02 non-leaves (25.40 %)
+   7.01 12.12 15.81 18.78 21.20 23.20 24.87 26.24 27.38 28.30 29.05 29.63 30.08 30.40 30.60 30.70 |
+  30.70 30.61 30.44 30.18 29.85 29.44 28.96 28.41 27.79 27.10 26.34 25.50 24.58 23.57 22.47 21.27 |
+  19.95 18.50 16.89 15.10 13.07 10.76  8.01  4.81  0.00 - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 17134546944 = 34.00
+depth 5:  2228399118848 = 2^ 41.02 nodes,  2224497508490 = 2^ 41.02 leaves,    3901610358 = 2^ 31.86 non-leaves (0.18 %)
+  18.82 24.01 27.78 30.68 32.93 34.68 36.03 37.03 37.73 38.16 38.35 38.31 38.05 37.58 36.91 36.07 |
+  35.06 33.92 32.65 31.27 29.76 28.12 26.33 24.37 22.22 19.84 17.20 14.26 10.95  7.19  3.00 - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 2228399118848 = 41.02
+depth 6:  1997624503296 = 2^ 40.86 nodes,  1997597812165 = 2^ 40.86 leaves,      26691131 = 2^ 24.67 non-leaves (0.00 %)
+  17.57 23.59 27.88 31.04 33.40 35.17 36.45 37.36 37.95 38.26 38.32 38.12 37.65 36.91 35.84 34.41 |
+  32.56 30.28 27.58 24.53 21.13 17.36 13.12  8.46  2.81 - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 1997624503296 = 40.86
+depth 7:   13665859072 = 2^ 33.67 nodes,   13665857927 = 2^ 33.67 leaves,          1145 = 2^ 10.16 non-leaves (0.00 %)
+   6.23 13.95 19.48 23.43 26.23 28.17 29.48 30.34 30.85 31.09 31.10 30.88 30.40 29.58 28.33 26.49 |
+  23.87 20.26 15.56 10.15  3.17 - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 13665859072 = 33.67
+depth 8:        586240 = 2^ 19.16 nodes,        586240 = 2^ 19.16 leaves,             0 = 2^  -inf non-leaves (0.00 %)
+  - -  6.61  8.27 11.19 13.68 15.11 15.93 16.34 16.55 16.55 16.34 15.94 15.12 13.69 11.21 |
+   8.33  6.55  2.00 - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 586240 = 19.16
+depth 9:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - - - - - - - - - - - - - - - - |
+  - 
+FULL STAT total: 0 = -inf
+  total:  4256858234368 = 2^ 41.95 nodes,  4248544058257 = 2^ 41.95 leaves
+  prefix   skips: 0 = 2^  -inf
+  prefix checked: 262144 = 2^ 18.00
+Fri Nov 22 15:45:20 CET 2024
