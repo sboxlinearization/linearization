@@ -2,6 +2,14 @@
 
 This repository contains supporting code for the paper.
 
+## Greedy Extension algorithm
+
+This algorithm is heuristic and was use to produced most of our best approximations.
+The code is written in [greedy_extension.py](./greedy_extension.py), it also uses basic classes from other included modules.
+
+Results for monomial S-boxes are given in [results_monomials.txt](./results_monomials.txt). In the form of json `{exp: [approx_for_n4, ..., approx_for_n13]}`, where each approximation is given by the intersection S ∩ A, i.e. the x-coordinates of points of S. The monomial S-boxes were generated using sage's `sage.crypto.sboxes.monomial_function` method.
+
+
 ## Exhaustive Reduction algorithm
 
 This algorithm is used to exhaust the search space and yield guaranteed vectorial linearity (or an upper bound). Its basic idea is to recursively enumerate candidates for the coordinates of the affine approximation, one at a time. At the same time, it maintains the set of satsifying inputs for all the previous guesses. If the set of inputs is lower than the lower bound LB (parameter), then the current subtree is cut and not searched anymore. It also includes an optimization for quadratic maps, by using the derivatives to reduces the search space (typically by a factor 2^n).
@@ -33,4 +41,3 @@ $ ./RE-custom 8 42 0 1 <sboxes/n8_AES
 The 2 solutions together with translation by constant produce all 32 solutions.
 
 NOTE: We only take first 2 output bits of derivatives which for Ascon produces only 16 (out of 32) unique functions. Perhaps randomizing the S-box with affine maps before running this code could help to use all 32 available translations.
-
