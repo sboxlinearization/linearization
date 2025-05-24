@@ -1,0 +1,49 @@
+Input S-box (space separated integers):
+n = 5
+4 11 31 20 26 21 9 2 27 5 8 18 29 3 6 28 30 19 7 14 0 13 17 24 16 12 1 25 22 10 15 23 
+S-box is quadratic? 1 1
+Computed 32 derivatives (16 unique)
+RUNNING WITH LB 12, BATCH 0/1
+checking depth 0 masks (00 00)
+checking depth 0 masks (0c 00)
+checking depth 0 masks (01 00)
+checking depth 0 masks (09 00)
+checking depth 0 masks (0a 00)
+checking depth 0 masks (0e 00)
+checking depth 0 masks (02 00)
+checking depth 0 masks (06 00)
+checking depth 0 masks (05 00)
+checking depth 0 masks (1e 00)
+checking depth 0 masks (08 00)
+checking depth 0 masks (0d 00)
+checking depth 0 masks (03 00)
+checking depth 0 masks (18 00)
+checking depth 0 masks (15 00)
+checking depth 0 masks (07 00)
+checking depth 0 masks (16 00)
+checking depth 0 masks (13 00)
+checking depth 0 masks (0b 00)
+checking depth 0 masks (0f 00)
+checking depth 0 masks (11 00)
+checking depth 0 masks (1d 00)
+checking depth 0 masks (1c 00)
+checking depth 0 masks (10 00)
+checking depth 0 masks (19 00)
+checking depth 0 masks (14 00)
+checking depth 0 masks (1a 00)
+checking depth 0 masks (17 00)
+checking depth 0 masks (1b 00)
+checking depth 0 masks (12 00)
+checking depth 0 masks (1f 00)
+checking depth 0 masks (04 00)
+
+depth 0:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+depth 1:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+depth 2:           256 = 2^  8.00 nodes,           233 = 2^  7.86 leaves,            23 = 2^  4.52 non-leaves (8.98 %)
+depth 3:          1472 = 2^ 10.52 nodes,          1453 = 2^ 10.50 leaves,            19 = 2^  4.25 non-leaves (1.29 %)
+depth 4:          1216 = 2^ 10.25 nodes,          1212 = 2^ 10.24 leaves,             4 = 2^  2.00 non-leaves (0.33 %)
+depth 5:           256 = 2^  8.00 nodes,           256 = 2^  8.00 leaves,             0 = 2^  -inf non-leaves (0.00 %)
+depth 6:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves,             0 = 2^  -inf non-leaves (-nan %)
+  total:          3200 = 2^ 11.64 nodes,          3154 = 2^ 11.62 leaves
+  prefix   skips: 3840 = 2^ 11.91
+  prefix checked: 256 = 2^  8.00

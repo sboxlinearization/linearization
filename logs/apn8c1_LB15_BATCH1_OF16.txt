@@ -1,0 +1,563 @@
+SLURM JOB 4210652
+SLURM TASK 1 / 16
+Sun Nov 17 11:43:21 CET 2024
+S-box is quadratic? 1 1
+Computed 256 derivatives (256 unique)
+RUNNING WITH LB 15, BATCH 1/16
+checking depth 0 masks (0 1)
+checking depth 0 masks (16 1)
+checking depth 0 masks (17 1)
+checking depth 0 masks (12 1)
+checking depth 0 masks (13 1)
+checking depth 0 masks (8 1)
+checking depth 0 masks (9 1)
+checking depth 0 masks (26 1)
+checking depth 0 masks (27 1)
+checking depth 0 masks (4 1)
+checking depth 0 masks (5 1)
+checking depth 0 masks (18 1)
+checking depth 0 masks (19 1)
+checking depth 0 masks (20 1)
+checking depth 0 masks (10 1)
+checking depth 0 masks (28 1)
+checking depth 0 masks (11 1)
+checking depth 0 masks (29 1)
+checking depth 0 masks (21 1)
+checking depth 0 masks (208 1)
+checking depth 0 masks (209 1)
+checking depth 0 masks (160 1)
+checking depth 0 masks (161 1)
+checking depth 0 masks (192 1)
+checking depth 0 masks (193 1)
+checking depth 0 masks (254 1)
+checking depth 0 masks (124 1)
+checking depth 0 masks (130 1)
+checking depth 0 masks (156 1)
+checking depth 0 masks (24 1)
+checking depth 0 masks (34 1)
+checking depth 0 masks (178 1)
+checking depth 0 masks (40 1)
+checking depth 0 masks (194 1)
+checking depth 0 masks (58 1)
+checking depth 0 masks (214 1)
+checking depth 0 masks (255 1)
+checking depth 0 masks (25 1)
+checking depth 0 masks (195 1)
+checking depth 0 masks (98 1)
+checking depth 0 masks (59 1)
+checking depth 0 masks (215 1)
+checking depth 0 masks (224 1)
+checking depth 0 masks (179 1)
+checking depth 0 masks (41 1)
+checking depth 0 masks (110 1)
+checking depth 0 masks (100 1)
+checking depth 0 masks (116 1)
+checking depth 0 masks (66 1)
+checking depth 0 masks (6 1)
+checking depth 0 masks (238 1)
+checking depth 0 masks (14 1)
+checking depth 0 masks (80 1)
+checking depth 0 masks (154 1)
+checking depth 0 masks (2 1)
+checking depth 0 masks (32 1)
+checking depth 0 masks (222 1)
+checking depth 0 masks (150 1)
+checking depth 0 masks (38 1)
+checking depth 0 masks (81 1)
+checking depth 0 masks (7 1)
+checking depth 0 masks (44 1)
+checking depth 0 masks (15 1)
+checking depth 0 masks (155 1)
+checking depth 0 masks (50 1)
+checking depth 0 masks (210 1)
+checking depth 0 masks (126 1)
+checking depth 0 masks (174 1)
+checking depth 0 masks (239 1)
+checking depth 0 masks (3 1)
+checking depth 0 masks (39 1)
+checking depth 0 masks (151 1)
+checking depth 0 masks (223 1)
+checking depth 0 masks (127 1)
+checking depth 0 masks (30 1)
+checking depth 0 masks (148 1)
+checking depth 0 masks (246 1)
+checking depth 0 masks (51 1)
+checking depth 0 masks (175 1)
+checking depth 0 masks (211 1)
+checking depth 0 masks (31 1)
+checking depth 0 masks (149 1)
+checking depth 0 masks (182 1)
+checking depth 0 masks (45 1)
+checking depth 0 masks (158 1)
+checking depth 0 masks (36 1)
+checking depth 0 masks (54 1)
+checking depth 0 masks (206 1)
+checking depth 0 masks (33 1)
+checking depth 0 masks (37 1)
+checking depth 0 masks (247 1)
+checking depth 0 masks (159 1)
+checking depth 0 masks (52 1)
+checking depth 0 masks (55 1)
+checking depth 0 masks (207 1)
+checking depth 0 masks (190 1)
+checking depth 0 masks (46 1)
+checking depth 0 masks (202 1)
+checking depth 0 masks (35 1)
+checking depth 0 masks (142 1)
+checking depth 0 masks (166 1)
+checking depth 0 masks (132 1)
+checking depth 0 masks (242 1)
+checking depth 0 masks (183 1)
+checking depth 0 masks (47 1)
+checking depth 0 masks (191 1)
+checking depth 0 masks (133 1)
+checking depth 0 masks (243 1)
+checking depth 0 masks (143 1)
+checking depth 0 masks (72 1)
+checking depth 0 masks (78 1)
+checking depth 0 masks (203 1)
+checking depth 0 masks (167 1)
+checking depth 0 masks (94 1)
+checking depth 0 masks (74 1)
+checking depth 0 masks (236 1)
+checking depth 0 masks (84 1)
+checking depth 0 masks (53 1)
+checking depth 0 masks (180 1)
+checking depth 0 masks (146 1)
+checking depth 0 masks (220 1)
+checking depth 0 masks (134 1)
+checking depth 0 masks (88 1)
+checking depth 0 masks (62 1)
+checking depth 0 masks (75 1)
+checking depth 0 masks (95 1)
+checking depth 0 masks (79 1)
+checking depth 0 masks (85 1)
+checking depth 0 masks (237 1)
+checking depth 0 masks (90 1)
+checking depth 0 masks (76 1)
+checking depth 0 masks (73 1)
+checking depth 0 masks (225 1)
+checking depth 0 masks (91 1)
+checking depth 0 masks (77 1)
+checking depth 0 masks (89 1)
+checking depth 0 masks (63 1)
+checking depth 0 masks (184 1)
+checking depth 0 masks (128 1)
+checking depth 0 masks (232 1)
+checking depth 0 masks (152 1)
+checking depth 0 masks (144 1)
+checking depth 0 masks (86 1)
+checking depth 0 masks (228 1)
+checking depth 0 masks (200 1)
+checking depth 0 masks (172 1)
+checking depth 0 masks (244 1)
+checking depth 0 masks (188 1)
+checking depth 0 masks (125 1)
+checking depth 0 masks (147 1)
+checking depth 0 masks (221 1)
+checking depth 0 masks (135 1)
+checking depth 0 masks (157 1)
+checking depth 0 masks (131 1)
+checking depth 0 masks (181 1)
+checking depth 0 masks (189 1)
+checking depth 0 masks (245 1)
+checking depth 0 masks (229 1)
+checking depth 0 masks (87 1)
+checking depth 0 masks (201 1)
+checking depth 0 masks (173 1)
+checking depth 0 masks (129 1)
+checking depth 0 masks (153 1)
+checking depth 0 masks (233 1)
+checking depth 0 masks (185 1)
+checking depth 0 masks (145 1)
+checking depth 0 masks (99 1)
+checking depth 0 masks (70 1)
+checking depth 0 masks (60 1)
+checking depth 0 masks (106 1)
+checking depth 0 masks (114 1)
+checking depth 0 masks (71 1)
+checking depth 0 masks (107 1)
+checking depth 0 masks (61 1)
+checking depth 0 masks (115 1)
+checking depth 0 masks (68 1)
+checking depth 0 masks (240 1)
+checking depth 0 masks (112 1)
+checking depth 0 masks (104 1)
+checking depth 0 masks (102 1)
+checking depth 0 masks (108 1)
+checking depth 0 masks (118 1)
+checking depth 0 masks (64 1)
+checking depth 0 masks (111 1)
+checking depth 0 masks (67 1)
+checking depth 0 masks (101 1)
+checking depth 0 masks (103 1)
+checking depth 0 masks (117 1)
+checking depth 0 masks (109 1)
+checking depth 0 masks (65 1)
+checking depth 0 masks (105 1)
+checking depth 0 masks (113 1)
+checking depth 0 masks (119 1)
+checking depth 0 masks (69 1)
+checking depth 0 masks (241 1)
+checking depth 0 masks (226 1)
+checking depth 0 masks (227 1)
+checking depth 0 masks (48 1)
+checking depth 0 masks (49 1)
+checking depth 0 masks (248 1)
+checking depth 0 masks (252 1)
+checking depth 0 masks (249 1)
+checking depth 0 masks (253 1)
+checking depth 0 masks (234 1)
+checking depth 0 masks (235 1)
+checking depth 0 masks (216 1)
+checking depth 0 masks (217 1)
+checking depth 0 masks (82 1)
+checking depth 0 masks (164 1)
+checking depth 0 masks (83 1)
+checking depth 0 masks (165 1)
+checking depth 0 masks (120 1)
+checking depth 0 masks (121 1)
+checking depth 0 masks (218 1)
+checking depth 0 masks (219 1)
+checking depth 0 masks (56 1)
+checking depth 0 masks (57 1)
+checking depth 0 masks (122 1)
+checking depth 0 masks (123 1)
+checking depth 0 masks (186 1)
+checking depth 0 masks (187 1)
+checking depth 0 masks (212 1)
+checking depth 0 masks (213 1)
+checking depth 0 masks (198 1)
+checking depth 0 masks (199 1)
+checking depth 0 masks (42 1)
+checking depth 0 masks (43 1)
+checking depth 0 masks (168 1)
+checking depth 0 masks (196 1)
+checking depth 0 masks (230 1)
+checking depth 0 masks (250 1)
+checking depth 0 masks (162 1)
+checking depth 0 masks (22 1)
+checking depth 0 masks (138 1)
+checking depth 0 masks (197 1)
+checking depth 0 masks (23 1)
+checking depth 0 masks (231 1)
+checking depth 0 masks (163 1)
+checking depth 0 masks (251 1)
+checking depth 0 masks (136 1)
+checking depth 0 masks (170 1)
+checking depth 0 masks (139 1)
+checking depth 0 masks (92 1)
+checking depth 0 masks (96 1)
+checking depth 0 masks (140 1)
+checking depth 0 masks (137 1)
+checking depth 0 masks (171 1)
+checking depth 0 masks (204 1)
+checking depth 0 masks (176 1)
+checking depth 0 masks (93 1)
+checking depth 0 masks (97 1)
+checking depth 0 masks (141 1)
+checking depth 0 masks (205 1)
+checking depth 0 masks (169 1)
+checking depth 0 masks (177 1)
+SOLUTION depth 8: 15 : 43 74 91 102 126 133 144 162 168 215 226 244 248 249 252 
+SOLUTION depth 8: 15 : 13 21 47 59 108 115 125 136 142 164 165 174 209 214 234 
+SOLUTION depth 8: 15 : 13 25 34 53 59 72 79 98 104 122 159 161 207 211 233 
+SOLUTION depth 8: 15 : 7 21 94 104 107 108 131 164 165 174 178 198 214 230 255 
+SOLUTION depth 8: 15 : 7 87 94 104 107 108 131 165 174 178 198 208 214 216 255 
+SOLUTION depth 8: 15 : 1 7 30 49 70 71 84 87 99 141 154 209 214 234 246 
+SOLUTION depth 8: 15 : 13 21 89 95 97 99 131 142 151 161 177 211 214 216 255 
+SOLUTION depth 8: 15 : 25 30 34 47 49 70 72 84 87 95 141 211 214 230 243 
+SOLUTION depth 8: 15 : 0 8 15 29 55 146 152 153 156 172 183 192 201 217 223 
+SOLUTION depth 8: 15 : 1 7 22 23 52 62 70 88 104 124 136 163 229 234 249 
+SOLUTION depth 8: 15 : 7 11 34 70 71 83 120 126 140 149 163 185 189 215 222 
+SOLUTION depth 8: 15 : 52 79 85 97 99 107 140 144 171 185 189 215 229 245 248 
+SOLUTION depth 8: 15 : 1 47 82 85 108 120 139 141 149 207 233 234 245 249 252 
+SOLUTION depth 8: 15 : 34 52 60 71 72 91 97 99 104 120 124 148 161 234 248 
+SOLUTION depth 8: 15 : 7 11 23 52 81 82 83 107 117 139 148 158 190 215 229 
+SOLUTION depth 8: 15 : 1 11 41 60 71 99 107 108 117 124 141 144 149 230 252 
+SOLUTION depth 8: 15 : 11 22 23 27 71 124 126 131 139 140 171 188 198 242 248 
+SOLUTION depth 8: 15 : 11 47 70 71 72 91 117 131 139 171 188 215 248 252 254 
+SOLUTION depth 8: 15 : 45 47 60 81 117 141 144 165 198 207 230 242 248 249 252 
+SOLUTION depth 8: 15 : 13 26 45 70 71 79 85 97 107 161 163 165 174 215 230 
+SOLUTION depth 8: 15 : 13 22 26 83 88 98 104 136 144 174 190 229 234 248 249 
+SOLUTION depth 8: 15 : 0 2 3 4 55 57 150 160 180 191 194 199 205 219 227 
+SOLUTION depth 8: 15 : 5 6 10 29 48 56 86 103 113 118 119 134 182 195 223 
+SOLUTION depth 8: 15 : 1 25 30 36 42 71 89 102 139 151 162 175 235 242 249 
+SOLUTION depth 8: 15 : 7 18 44 60 63 70 72 79 117 136 159 175 190 207 240 
+SOLUTION depth 8: 15 : 1 43 52 63 79 89 126 136 140 141 142 209 226 240 249 
+SOLUTION depth 8: 15 : 11 21 30 52 62 79 139 141 154 157 208 211 226 231 238 
+SOLUTION depth 8: 15 : 18 43 60 70 79 120 131 136 141 151 157 168 175 244 248 
+SOLUTION depth 8: 15 : 25 36 42 71 102 105 120 126 139 151 162 175 235 242 249 
+SOLUTION depth 8: 15 : 1 7 18 36 60 62 70 87 120 141 154 157 169 213 252 
+SOLUTION depth 8: 15 : 36 44 94 102 105 139 154 157 159 190 209 226 235 248 254 
+SOLUTION depth 8: 15 : 1 18 43 60 71 72 93 141 157 168 175 190 198 207 240 
+SOLUTION depth 8: 15 : 18 36 43 44 60 62 124 142 157 169 173 211 238 242 248 
+SOLUTION depth 8: 15 : 3 19 31 37 51 56 80 146 160 166 184 212 232 236 253 
+SOLUTION depth 8: 15 : 8 12 31 46 66 101 128 129 152 179 182 187 199 200 247 
+SOLUTION depth 8: 15 : 51 66 80 119 127 160 166 179 201 212 223 224 227 237 239 
+SOLUTION depth 8: 15 : 0 3 15 56 86 113 118 143 146 152 153 156 182 221 223 
+SOLUTION depth 8: 15 : 4 14 33 35 64 152 160 166 182 184 187 205 212 239 253 
+SOLUTION depth 8: 15 : 0 12 64 77 106 113 152 179 187 200 201 205 225 232 253 
+SOLUTION depth 8: 15 : 33 37 46 51 77 101 118 129 205 212 218 221 227 247 253 
+SOLUTION depth 8: 15 : 0 8 14 73 106 118 119 135 146 179 199 212 221 223 253 
+SOLUTION depth 8: 15 : 0 3 12 14 31 33 66 113 129 135 184 217 221 236 237 
+SOLUTION depth 8: 15 : 12 14 29 66 113 129 135 192 212 217 220 221 224 236 247 
+SOLUTION depth 8: 15 : 0 12 14 33 66 113 129 135 184 192 212 217 221 236 247 
+SOLUTION depth 8: 15 : 18 25 30 41 74 75 93 94 117 163 174 214 216 229 249 
+SOLUTION depth 8: 15 : 25 41 45 67 74 75 84 89 95 124 151 171 208 211 252 
+SOLUTION depth 8: 15 : 18 62 67 87 97 99 107 157 174 190 203 208 209 245 254 
+SOLUTION depth 8: 15 : 25 62 63 75 87 93 94 99 104 161 174 188 190 209 245 
+SOLUTION depth 8: 15 : 45 52 62 84 87 117 171 196 204 211 214 216 245 248 252 
+SOLUTION depth 8: 15 : 25 34 47 67 74 84 87 95 151 164 189 211 214 230 244 
+SOLUTION depth 8: 15 : 45 63 67 108 138 163 164 193 196 197 204 213 242 244 248 
+SOLUTION depth 8: 15 : 21 45 67 84 87 138 161 163 165 189 197 213 229 233 244 
+SOLUTION depth 8: 15 : 21 30 45 67 87 161 163 165 189 196 197 204 213 229 233 
+SOLUTION depth 8: 15 : 25 30 41 75 84 95 157 164 171 196 206 211 213 240 252 
+SOLUTION depth 8: 15 : 41 45 84 107 120 126 133 164 196 197 204 206 211 234 240 
+SOLUTION depth 8: 15 : 11 49 71 79 88 122 123 131 140 144 158 168 215 231 246 
+SOLUTION depth 8: 15 : 0 8 48 78 116 145 155 182 184 187 195 218 220 225 232 
+SOLUTION depth 8: 15 : 0 3 15 24 28 65 114 130 132 170 179 187 218 225 239 
+SOLUTION depth 8: 15 : 27 43 70 71 89 97 122 125 138 175 185 211 234 250 255 
+SOLUTION depth 8: 15 : 11 21 25 30 45 67 74 83 91 136 139 161 164 196 248 
+SOLUTION depth 8: 15 : 11 25 30 53 59 67 105 139 141 157 196 203 240 248 249 
+SOLUTION depth 8: 15 : 1 7 11 81 105 117 126 131 157 163 171 196 231 238 254 
+SOLUTION depth 8: 15 : 21 30 34 47 49 85 126 154 157 164 176 226 238 242 244 
+SOLUTION depth 8: 15 : 7 34 41 45 120 141 151 181 197 203 226 244 249 252 254 
+SOLUTION depth 8: 15 : 42 71 72 85 91 107 108 138 175 176 177 181 198 242 254 
+SOLUTION depth 8: 15 : 30 36 59 72 83 85 88 91 120 124 167 222 230 242 248 
+SOLUTION depth 8: 15 : 7 13 41 74 75 94 102 142 174 188 206 208 213 216 255 
+SOLUTION depth 8: 15 : 7 13 23 27 34 41 75 102 105 123 125 161 185 204 206 
+SOLUTION depth 8: 15 : 1 13 63 75 94 95 102 136 141 149 161 174 189 208 216 
+SOLUTION depth 8: 15 : 13 23 26 34 94 95 141 148 185 211 216 238 246 250 255 
+SOLUTION depth 8: 15 : 22 34 60 75 94 95 105 115 122 161 163 165 188 209 255 
+SOLUTION depth 8: 15 : 1 13 63 75 95 102 136 141 142 148 149 174 189 213 216 
+SOLUTION depth 8: 15 : 13 27 34 75 102 115 139 140 141 144 171 197 204 206 255 
+SOLUTION depth 8: 15 : 1 22 26 34 63 105 122 140 158 185 193 196 197 206 208 
+SOLUTION depth 8: 15 : 0 16 28 35 37 46 76 110 119 128 135 160 183 195 221 
+SOLUTION depth 8: 15 : 17 31 64 73 92 112 116 137 153 170 194 201 224 227 239 
+SOLUTION depth 8: 15 : 1 11 43 74 85 97 115 122 140 154 169 185 190 229 246 
+SOLUTION depth 8: 15 : 1 11 62 67 88 122 168 169 175 185 197 215 229 230 233 
+SOLUTION depth 8: 15 : 7 67 68 75 104 107 122 131 157 159 167 173 215 246 250 
+SOLUTION depth 8: 15 : 11 18 21 25 82 122 136 159 175 185 193 196 206 229 250 
+SOLUTION depth 8: 15 : 36 42 60 62 82 85 97 122 131 154 159 189 190 206 255 
+SOLUTION depth 8: 15 : 11 43 67 75 88 98 115 122 154 168 175 196 197 206 234 
+SOLUTION depth 8: 15 : 22 27 107 158 173 176 177 197 203 211 213 240 242 245 249 
+SOLUTION depth 8: 15 : 7 13 42 49 67 75 97 120 124 148 193 204 234 249 252 
+SOLUTION depth 8: 15 : 7 13 93 158 173 176 177 197 203 211 213 240 242 245 249 
+SOLUTION depth 8: 15 : 42 59 68 93 98 107 136 144 181 203 204 208 214 248 252 
+SOLUTION depth 8: 15 : 22 23 36 49 53 59 68 75 97 131 149 168 196 204 240 
+SOLUTION depth 8: 15 : 7 11 53 95 124 131 136 139 142 167 169 196 206 216 254 
+SOLUTION depth 8: 15 : 7 11 36 53 124 131 139 140 158 167 169 196 206 216 254 
+SOLUTION depth 8: 15 : 43 54 67 97 98 99 141 158 176 193 206 233 242 245 254 
+SOLUTION depth 8: 15 : 43 54 67 97 99 136 141 158 162 176 193 230 233 242 254 
+SOLUTION depth 8: 15 : 43 54 67 98 99 136 141 162 176 206 230 233 242 245 254 
+SOLUTION depth 8: 15 : 42 67 68 104 120 141 144 181 193 197 208 214 240 242 248 
+SOLUTION depth 8: 15 : 22 42 49 75 89 117 120 124 140 148 175 229 233 234 244 
+SOLUTION depth 8: 15 : 11 26 54 59 67 87 93 94 95 108 142 169 176 196 211 
+SOLUTION depth 8: 15 : 23 42 74 87 89 95 108 142 149 175 177 193 214 234 248 
+SOLUTION depth 8: 15 : 23 42 43 74 84 87 89 95 108 117 124 168 203 204 242 
+SOLUTION depth 8: 15 : 23 43 49 75 84 87 98 124 131 203 214 216 242 245 248 
+SOLUTION depth 8: 15 : 1 11 22 42 54 74 98 139 162 177 196 204 230 242 244 
+SOLUTION depth 8: 15 : 11 75 89 99 104 140 142 144 149 169 197 203 229 234 245 
+SOLUTION depth 8: 15 : 7 22 36 84 93 107 117 167 178 204 208 211 214 216 252 
+SOLUTION depth 8: 15 : 26 43 49 53 67 84 94 99 107 140 181 206 209 234 242 
+SOLUTION depth 8: 15 : 1 7 13 49 53 68 94 117 131 136 167 206 216 230 245 
+SOLUTION depth 8: 15 : 1 7 27 49 53 59 89 94 117 131 136 167 206 216 245 
+SOLUTION depth 8: 15 : 43 49 59 75 97 99 131 144 148 173 178 181 214 230 242 
+SOLUTION depth 8: 15 : 22 42 53 74 87 98 117 142 148 169 181 230 240 242 248 
+SOLUTION depth 8: 15 : 11 44 87 89 94 95 98 142 175 177 193 203 211 233 248 
+SOLUTION depth 8: 15 : 13 42 104 107 126 139 144 167 168 203 204 211 214 216 254 
+SOLUTION depth 8: 15 : 43 49 59 89 97 104 139 144 162 175 177 206 214 240 254 
+SOLUTION depth 8: 15 : 13 22 36 53 94 95 97 117 162 209 230 245 249 252 254 
+SOLUTION depth 8: 15 : 23 42 44 59 93 97 104 108 120 131 203 214 216 230 249 
+SOLUTION depth 8: 15 : 11 13 75 89 99 104 140 142 144 149 167 176 197 203 234 
+SOLUTION depth 8: 15 : 11 36 49 87 93 95 99 104 117 162 173 177 178 181 216 
+SOLUTION depth 8: 15 : 7 26 53 54 74 84 95 108 117 124 141 203 204 216 245 
+SOLUTION depth 8: 15 : 7 26 36 53 54 68 74 75 84 108 176 178 197 214 242 
+SOLUTION depth 8: 15 : 13 26 44 54 74 95 99 117 144 193 196 203 204 216 245 
+SOLUTION depth 8: 15 : 11 13 23 36 44 53 75 84 99 126 178 208 230 234 254 
+SOLUTION depth 8: 15 : 11 23 36 44 53 84 99 104 126 167 208 230 234 244 254 
+SOLUTION depth 8: 15 : 11 23 27 75 94 99 104 108 117 141 142 175 197 244 252 
+SOLUTION depth 8: 15 : 1 11 26 49 53 84 98 99 117 142 168 196 233 245 252 
+SOLUTION depth 8: 15 : 26 27 68 104 108 124 136 167 168 181 196 204 233 240 242 
+SOLUTION depth 8: 15 : 13 23 44 84 93 97 98 108 136 167 175 178 204 208 245 
+SOLUTION depth 8: 15 : 23 42 49 67 89 93 99 104 107 142 169 208 209 233 244 
+SOLUTION depth 8: 15 : 26 49 53 67 84 99 107 140 142 196 206 209 234 242 244 
+SOLUTION depth 8: 15 : 7 26 49 54 59 74 75 93 95 120 142 196 230 249 252 
+SOLUTION depth 8: 15 : 27 53 59 104 142 169 173 175 196 203 204 208 230 248 249 
+SOLUTION depth 8: 15 : 11 27 53 59 142 169 175 193 196 203 204 208 211 248 249 
+SOLUTION depth 8: 15 : 22 84 95 98 99 107 141 142 144 169 181 213 216 230 254 
+SOLUTION depth 8: 15 : 7 11 22 23 44 54 87 141 148 177 178 206 214 230 249 
+SOLUTION depth 8: 15 : 7 23 26 42 53 54 74 84 95 124 141 203 204 240 245 
+SOLUTION depth 8: 15 : 7 22 23 27 54 108 126 136 144 162 181 197 209 214 230 
+SOLUTION depth 8: 15 : 22 53 59 104 107 108 140 141 149 158 178 193 214 244 249 
+SOLUTION depth 8: 15 : 59 67 75 84 93 95 126 142 158 169 176 208 211 233 252 
+SOLUTION depth 8: 15 : 23 43 75 98 104 168 175 178 196 209 213 216 229 234 254 
+SOLUTION depth 8: 15 : 22 67 75 89 117 124 140 148 173 175 229 233 234 244 249 
+SOLUTION depth 8: 15 : 22 54 75 89 97 108 117 140 148 175 177 181 193 229 234 
+SOLUTION depth 8: 15 : 13 43 68 84 94 131 139 158 169 181 193 204 206 213 233 
+SOLUTION depth 8: 15 : 1 7 44 49 94 99 142 167 175 176 204 206 214 244 249 
+SOLUTION depth 8: 15 : 7 36 59 93 104 162 177 178 197 204 216 229 242 244 252 
+SOLUTION depth 8: 15 : 22 43 74 104 108 149 167 173 177 197 206 213 230 245 249 
+SOLUTION depth 8: 15 : 11 27 44 49 74 97 98 99 108 148 162 176 230 234 245 
+SOLUTION depth 8: 15 : 11 27 67 68 74 89 108 140 148 149 162 169 173 175 244 
+SOLUTION depth 8: 15 : 1 11 26 43 95 107 108 124 131 141 144 168 193 204 216 
+SOLUTION depth 8: 15 : 26 42 44 84 95 97 149 177 203 211 214 233 234 240 248 
+SOLUTION depth 8: 15 : 26 42 44 95 99 107 108 131 149 177 193 203 214 216 233 
+SOLUTION depth 8: 15 : 7 93 95 98 99 141 144 167 169 181 211 229 230 242 254 
+SOLUTION depth 8: 15 : 13 22 36 42 67 94 95 97 162 209 211 230 245 249 252 
+SOLUTION depth 8: 15 : 22 23 49 53 75 97 131 149 158 168 196 204 213 229 240 
+SOLUTION depth 8: 15 : 26 43 53 87 97 149 162 169 196 206 209 214 240 244 252 
+SOLUTION depth 8: 15 : 0 4 32 40 73 113 134 137 146 183 202 218 221 225 237 
+SOLUTION depth 8: 15 : 26 27 43 44 62 102 105 117 131 174 208 213 216 234 243 
+SOLUTION depth 8: 15 : 11 41 54 72 97 133 138 158 173 196 197 206 242 245 252 
+SOLUTION depth 8: 15 : 1 18 25 54 84 94 97 104 125 149 189 231 248 249 254 
+SOLUTION depth 8: 15 : 41 53 70 84 89 97 98 99 104 144 173 185 188 206 215 
+SOLUTION depth 8: 15 : 1 41 53 84 89 93 97 99 138 144 173 185 188 206 215 
+SOLUTION depth 8: 15 : 49 94 97 98 108 122 125 167 173 185 189 197 215 226 231 
+SOLUTION depth 8: 15 : 45 47 54 71 87 89 97 125 167 215 238 244 248 249 252 
+SOLUTION depth 8: 15 : 11 34 53 71 104 107 173 193 196 197 203 204 222 244 248 
+SOLUTION depth 8: 15 : 34 49 79 87 98 158 167 185 188 189 190 196 206 226 242 
+SOLUTION depth 8: 15 : 45 47 49 84 87 89 133 148 149 162 167 168 189 244 248 
+SOLUTION depth 8: 15 : 7 34 41 72 93 104 108 123 149 173 197 203 245 249 252 
+SOLUTION depth 8: 15 : 7 18 34 47 72 84 98 104 122 123 162 185 204 231 238 
+SOLUTION depth 8: 15 : 7 47 70 72 87 98 104 122 123 162 173 185 204 231 238 
+SOLUTION depth 8: 15 : 13 21 59 87 123 138 169 189 196 204 206 215 240 245 254 
+SOLUTION depth 8: 15 : 0 8 14 19 38 64 80 111 145 150 182 187 195 219 225 
+SOLUTION depth 8: 15 : 2 3 8 12 15 17 40 77 112 137 145 166 179 202 219 
+SOLUTION depth 8: 15 : 1 7 13 60 98 117 133 138 151 167 193 209 231 246 255 
+SOLUTION depth 8: 15 : 1 7 22 45 52 88 98 104 124 126 196 203 204 243 250 
+SOLUTION depth 8: 15 : 11 26 41 45 47 52 70 82 83 126 151 159 173 193 255 
+SOLUTION depth 8: 15 : 11 13 26 45 47 52 70 79 82 126 151 159 173 193 235 
+SOLUTION depth 8: 15 : 11 22 52 60 62 71 82 83 97 104 193 206 209 214 255 
+SOLUTION depth 8: 15 : 7 22 27 81 88 104 126 162 203 204 211 214 216 231 235 
+SOLUTION depth 8: 15 : 41 45 85 88 107 120 126 133 167 169 196 197 204 206 211 
+SOLUTION depth 8: 15 : 13 70 71 72 79 82 98 126 151 157 162 181 193 226 243 
+SOLUTION depth 8: 15 : 13 45 47 82 83 98 104 107 117 120 126 178 226 238 250 
+SOLUTION depth 8: 15 : 26 27 41 47 71 98 107 108 126 159 197 209 213 235 243 
+SOLUTION depth 8: 15 : 27 45 47 71 98 107 108 117 126 159 209 213 235 243 255 
+SOLUTION depth 8: 15 : 23 41 47 62 63 99 133 151 154 157 176 211 243 246 255 
+SOLUTION depth 8: 15 : 6 9 40 50 80 103 110 111 119 150 155 191 200 219 237 
+SOLUTION depth 8: 15 : 22 34 45 68 115 122 136 190 213 231 244 248 249 252 254 
+SOLUTION depth 8: 15 : 23 27 49 67 68 81 82 91 136 142 169 189 211 216 231 
+SOLUTION depth 8: 15 : 26 47 54 81 82 88 97 115 136 142 159 168 173 238 254 
+SOLUTION depth 8: 15 : 53 67 85 88 107 157 173 188 190 207 208 216 242 245 254 
+SOLUTION depth 8: 15 : 53 67 85 88 97 107 157 173 190 208 209 216 231 245 254 
+SOLUTION depth 8: 15 : 23 27 49 53 68 75 140 151 159 168 198 231 240 245 254 
+SOLUTION depth 8: 15 : 22 34 45 68 98 115 122 136 159 162 213 231 244 248 254 
+SOLUTION depth 8: 15 : 22 45 59 68 98 115 136 154 159 162 169 231 244 248 254 
+SOLUTION depth 8: 15 : 27 59 67 68 74 82 104 115 123 159 162 244 245 248 254 
+SOLUTION depth 8: 15 : 22 34 45 67 68 85 115 122 136 213 231 244 245 248 254 
+SOLUTION depth 8: 15 : 11 18 21 36 42 44 62 89 149 165 176 193 204 229 246 
+SOLUTION depth 8: 15 : 24 32 40 55 78 96 100 112 129 132 143 184 227 241 251 
+SOLUTION depth 8: 15 : 20 32 38 55 78 96 112 116 121 129 184 200 221 237 247 
+SOLUTION depth 8: 15 : 5 20 40 61 100 110 130 152 156 179 182 187 205 223 237 
+SOLUTION depth 8: 15 : 28 40 61 69 78 112 116 132 166 182 194 199 212 217 241 
+SOLUTION depth 8: 15 : 5 20 58 61 96 128 130 143 146 160 194 199 217 228 239 
+SOLUTION depth 8: 15 : 10 38 96 109 111 114 129 132 152 179 187 221 236 237 247 
+SOLUTION depth 8: 15 : 10 38 69 96 111 116 129 132 143 152 166 187 218 220 247 
+SOLUTION depth 8: 15 : 10 38 96 109 111 129 132 143 152 166 179 187 218 236 247 
+SOLUTION depth 8: 15 : 10 20 38 40 69 96 111 116 129 152 166 187 205 218 220 
+SOLUTION depth 8: 15 : 10 20 28 39 40 55 61 90 111 116 153 221 239 251 253 
+SOLUTION depth 8: 15 : 9 32 58 61 96 112 121 129 143 153 160 179 199 200 239 
+SOLUTION depth 8: 15 : 24 65 90 92 112 116 128 130 143 160 184 201 220 221 224 
+SOLUTION depth 8: 15 : 16 24 55 78 100 129 130 132 160 187 192 201 221 224 241 
+SOLUTION depth 8: 15 : 24 32 40 55 78 96 100 129 132 153 184 199 212 227 241 
+SOLUTION depth 8: 15 : 5 9 28 32 38 40 110 111 114 121 132 160 201 217 251 
+SOLUTION depth 8: 15 : 10 24 92 109 121 128 130 143 160 182 184 194 201 220 239 
+SOLUTION depth 8: 15 : 45 60 67 94 95 99 120 131 162 167 169 173 198 235 255 
+SOLUTION depth 8: 15 : 41 62 68 75 84 99 104 126 139 141 169 173 181 198 235 
+SOLUTION depth 8: 15 : 21 45 47 98 104 107 117 120 126 139 148 178 226 238 250 
+SOLUTION depth 8: 15 : 1 36 43 49 53 70 85 102 122 123 133 154 188 245 249 
+SOLUTION depth 8: 15 : 13 27 49 79 83 185 189 190 196 197 203 206 209 230 254 
+SOLUTION depth 8: 15 : 1 11 43 44 102 122 138 151 174 190 203 229 234 252 254 
+SOLUTION depth 8: 15 : 7 11 43 54 82 83 105 151 157 159 185 211 214 234 244 
+SOLUTION depth 8: 15 : 22 43 53 54 81 88 102 115 165 174 196 240 242 244 248 
+SOLUTION depth 8: 15 : 58 66 113 127 147 170 172 179 184 202 218 224 232 236 237 
+SOLUTION depth 8: 15 : 10 46 55 58 61 64 132 145 182 195 202 212 220 224 239 
+SOLUTION depth 8: 15 : 31 35 46 64 90 100 127 145 172 187 217 218 223 237 239 
+SOLUTION depth 8: 15 : 6 10 29 33 66 73 103 113 118 119 130 150 187 195 223 
+SOLUTION depth 8: 15 : 31 35 46 64 90 96 100 127 145 170 172 187 217 218 236 
+SOLUTION depth 8: 15 : 26 27 43 52 63 71 79 115 141 161 171 178 203 226 248 
+SOLUTION depth 8: 15 : 22 23 93 97 98 108 136 151 161 165 176 178 204 231 245 
+SOLUTION depth 8: 15 : 36 52 60 87 89 94 97 115 136 140 142 159 197 222 254 
+SOLUTION depth 8: 15 : 22 23 52 63 97 98 163 164 176 178 206 226 235 240 252 
+SOLUTION depth 8: 15 : 23 93 98 108 122 136 151 154 174 178 204 231 240 242 249 
+SOLUTION depth 8: 15 : 23 93 97 98 108 136 151 164 165 178 204 231 242 245 249 
+SOLUTION depth 8: 15 : 26 43 52 62 63 71 79 115 141 171 176 178 226 235 248 
+SOLUTION depth 8: 15 : 27 44 79 94 108 123 159 161 163 181 222 231 235 248 254 
+SOLUTION depth 8: 15 : 27 43 44 79 87 94 104 108 123 161 181 222 231 248 254 
+SOLUTION depth 8: 15 : 27 43 44 79 87 104 108 123 159 161 163 181 222 235 254 
+SOLUTION depth 8: 15 : 22 26 71 99 125 136 139 142 154 163 164 171 215 231 240 
+SOLUTION depth 8: 15 : 22 26 42 99 125 136 154 157 163 165 171 203 231 238 248 
+SOLUTION depth 8: 15 : 22 26 42 71 99 125 136 139 154 163 164 171 231 238 248 
+SOLUTION depth 8: 15 : 18 34 53 54 59 67 75 81 91 162 185 190 214 229 234 
+SOLUTION depth 8: 15 : 43 49 59 71 72 79 139 196 213 214 216 226 235 238 246 
+SOLUTION depth 8: 15 : 21 44 104 120 124 131 141 158 163 164 165 174 193 208 255 
+SOLUTION depth 8: 15 : 21 43 71 85 91 99 104 158 185 190 193 203 216 226 231 
+SOLUTION depth 8: 15 : 18 49 53 70 131 136 139 144 158 161 174 190 203 204 213 
+SOLUTION depth 8: 15 : 36 53 79 81 97 98 99 108 117 126 142 158 171 208 246 
+SOLUTION depth 8: 15 : 81 83 108 117 120 136 142 148 185 190 193 196 206 214 250 
+SOLUTION depth 8: 15 : 36 44 53 70 88 91 98 139 164 165 171 190 196 238 246 
+SOLUTION depth 8: 15 : 44 79 85 107 141 148 158 164 165 171 204 206 216 235 250 
+SOLUTION depth 8: 15 : 43 44 79 85 91 99 139 148 158 171 206 208 216 235 243 
+SOLUTION depth 8: 15 : 21 42 53 70 88 97 98 148 193 196 197 206 214 216 235 
+SOLUTION depth 8: 15 : 21 42 82 83 98 104 107 117 120 126 139 148 226 238 250 
+SOLUTION depth 8: 15 : 42 49 54 83 85 91 104 108 126 131 161 171 211 226 243 
+SOLUTION depth 8: 15 : 36 53 70 98 126 131 139 165 171 174 190 213 226 235 246 
+SOLUTION depth 8: 15 : 79 85 99 107 139 141 148 164 165 171 185 204 206 216 235 
+SOLUTION depth 8: 15 : 54 81 97 107 108 139 165 174 189 190 208 213 235 246 250 
+SOLUTION depth 8: 15 : 0 2 16 20 37 57 69 111 113 119 194 200 219 228 236 
+SOLUTION depth 8: 15 : 0 2 12 37 46 57 58 103 111 113 118 156 182 210 236 
+SOLUTION depth 8: 15 : 29 31 32 38 39 40 73 101 132 135 145 160 180 217 251 
+SOLUTION depth 8: 15 : 22 27 34 45 59 87 94 102 142 169 175 190 193 222 233 
+SOLUTION depth 8: 15 : 13 36 52 62 74 91 125 133 144 214 216 231 244 248 252 
+SOLUTION depth 8: 15 : 1 18 67 68 74 81 83 99 125 144 148 149 226 238 244 
+SOLUTION depth 8: 15 : 7 30 52 67 82 85 104 107 123 138 144 148 158 171 238 
+SOLUTION depth 8: 15 : 0 33 37 76 92 103 114 116 137 170 192 194 200 201 223 
+SOLUTION depth 8: 15 : 0 12 19 37 76 121 155 170 180 186 200 212 220 227 228 
+SOLUTION depth 8: 15 : 8 12 19 37 76 155 170 180 183 186 212 220 227 228 239 
+SOLUTION depth 8: 15 : 12 15 19 29 37 46 90 96 111 116 121 134 191 237 247 
+SOLUTION depth 8: 15 : 2 69 103 110 116 121 137 180 183 191 192 212 227 237 251 
+SOLUTION depth 8: 15 : 0 12 19 37 76 78 121 155 170 186 200 205 212 218 220 
+SOLUTION depth 8: 15 : 8 19 37 76 155 170 183 186 212 221 227 228 239 251 253 
+SOLUTION depth 8: 15 : 31 35 37 46 100 121 145 147 172 180 186 192 218 223 239 
+SOLUTION depth 8: 15 : 31 35 46 48 90 100 121 145 172 180 217 218 223 237 239 
+SOLUTION depth 8: 15 : 2 8 17 31 92 111 112 116 137 170 194 201 224 227 239 
+SOLUTION depth 8: 15 : 0 2 19 90 100 109 180 183 191 194 220 221 225 241 247 
+SOLUTION depth 8: 15 : 29 33 56 92 103 112 114 170 172 183 186 194 220 221 239 
+SOLUTION depth 8: 15 : 12 15 65 76 92 96 121 147 201 218 220 225 227 237 247 
+SOLUTION depth 8: 15 : 14 35 69 90 100 111 134 147 180 186 192 194 200 217 218 
+SOLUTION depth 8: 15 : 0 14 35 90 100 111 134 186 192 194 199 200 217 218 232 
+SOLUTION depth 8: 15 : 0 35 69 90 100 111 147 180 186 192 199 200 217 218 232 
+SOLUTION depth 8: 15 : 0 31 35 46 76 90 96 100 145 170 172 199 217 218 236 
+SOLUTION depth 8: 15 : 0 35 50 90 96 100 109 116 145 172 183 201 220 227 236 
+SOLUTION depth 8: 15 : 35 50 90 96 100 109 134 145 172 183 194 201 220 224 236 
+SOLUTION depth 8: 15 : 0 50 96 100 109 116 134 145 172 183 194 220 224 227 236 
+SOLUTION depth 8: 15 : 0 35 50 76 90 96 100 109 116 172 199 201 218 220 227 
+SOLUTION depth 8: 15 : 0 35 76 90 96 100 109 116 145 172 199 217 218 220 236 
+SOLUTION depth 8: 15 : 34 81 91 105 115 122 140 158 168 175 177 193 196 197 208 
+SOLUTION depth 8: 15 : 34 45 47 60 70 83 105 136 149 168 176 196 234 240 245 
+SOLUTION depth 8: 15 : 18 21 79 81 83 85 88 142 167 169 193 203 229 240 252 
+SOLUTION depth 8: 15 : 47 71 72 85 91 115 131 175 176 177 211 233 242 248 254 
+SOLUTION depth 8: 15 : 25 41 70 91 105 131 139 149 169 208 209 211 234 245 248 
+SOLUTION depth 8: 15 : 41 91 102 115 123 139 140 144 162 181 193 197 204 211 213 
+SOLUTION depth 8: 15 : 21 25 45 72 88 102 105 149 162 168 197 206 214 252 254 
+SOLUTION depth 8: 15 : 21 45 72 79 88 105 162 168 197 206 208 214 234 252 254 
+SOLUTION depth 8: 15 : 42 44 59 67 75 87 94 99 108 124 157 164 165 198 246 
+checking depth 0 masks (1 1)
+
+depth 0:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves (-nan %)
+depth 1:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves (-nan %)
+depth 2:            64 = 2^  6.00 nodes,             0 = 2^  -inf leaves (0.00 %)
+depth 3:         32768 = 2^ 15.00 nodes,             0 = 2^  -inf leaves (0.00 %)
+depth 4:      16777216 = 2^ 24.00 nodes,       6903586 = 2^ 22.72 leaves (41.15 %)
+depth 5:    5055298560 = 2^ 32.24 nodes,    4922769696 = 2^ 32.20 leaves (97.38 %)
+depth 6:   67854778368 = 2^ 35.98 nodes,   67808278395 = 2^ 35.98 leaves (99.93 %)
+depth 7:   23807986176 = 2^ 34.47 nodes,   23806890360 = 2^ 34.47 leaves (100.00 %)
+depth 8:     561057792 = 2^ 29.06 nodes,     561057506 = 2^ 29.06 leaves (100.00 %)
+depth 9:             0 = 2^  -inf nodes,             0 = 2^  -inf leaves (-nan %)
+  total:   97295930944 = 2^ 36.50 nodes,   97105899543 = 2^ 36.50 leaves
+  prefix   skips: 16320 = 2^ 13.99
+  prefix checked: 245824 = 2^ 17.91
+Sun Nov 17 15:23:53 CET 2024
